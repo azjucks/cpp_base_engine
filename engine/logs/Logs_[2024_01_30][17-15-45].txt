@@ -1,0 +1,374 @@
+[17:06:19] ========================
+[17:06:19] Starting load of scene : defaultScene ...
+[17:06:19] (File location : resources/scenes/).
+[17:06:19] ------------------------
+[17:06:19] Starting load of object : PenguinBaseMesh ...
+[17:06:19] (File location : resources/penguin/).
+[17:06:19] Loading object : Success!
+[17:06:19] ------------------------
+[17:06:19] ------------------------
+[17:06:19] Starting load of object : sniper ...
+[17:06:19] (File location : resources/sniper/).
+[17:06:19] Loading object : Success!
+[17:06:19] ------------------------
+[17:06:19] ------------------------
+[17:06:19] Starting load of object : cube ...
+[17:06:19] (File location : resources/).
+[17:06:19] Loading object : Success!
+[17:06:19] ------------------------
+[17:06:19] ------------------------
+[17:06:19] Starting load of object : cube ...
+[17:06:19] (File location : resources/).
+[17:06:19] Loading object : Success!
+[17:06:19] ------------------------
+[17:06:19] ------------------------
+[17:06:19] Starting load of object : cube ...
+[17:06:19] (File location : resources/).
+[17:06:19] Loading object : Success!
+[17:06:19] ------------------------
+[17:06:19] ------------------------
+[17:06:19] Starting load of object : cube ...
+[17:06:19] (File location : resources/).
+[17:06:19] Loading object : Success!
+[17:06:19] ------------------------
+[17:06:19] ------------------------
+[17:06:19] Starting load of object : cubebig ...
+[17:06:19] (File location : resources/).
+[17:06:19] Loading object : Success!
+[17:06:19] ------------------------
+[17:06:19] ------------------------
+[17:06:19] Starting load of object : cubebig ...
+[17:06:19] (File location : resources/).
+[17:06:19] Loading object : Success!
+[17:06:19] ------------------------
+[17:06:19] ------------------------
+[17:06:19] Starting load of object : cubebig ...
+[17:06:19] (File location : resources/).
+[17:06:19] Loading object : Success!
+[17:06:19] ------------------------
+[17:06:19] ------------------------
+[17:06:19] Starting load of object : cubebig ...
+[17:06:19] (File location : resources/).
+[17:06:19] Loading object : Success!
+[17:06:19] ------------------------
+[17:06:19] ------------------------
+[17:06:19] Starting load of object : cubebig ...
+[17:06:19] (File location : resources/).
+[17:06:19] Loading object : Success!
+[17:06:19] ------------------------
+[17:06:19] Loading scene : Success!
+[17:06:19] ========================
+[17:06:56] ========================
+[17:06:56] Starting load of scene : defaultScene ...
+[17:06:56] (File location : resources/scenes/).
+[17:06:56] ------------------------
+[17:06:56] Starting load of object : PenguinBaseMesh ...
+[17:06:56] (File location : resources/penguin/).
+[17:06:56] Loading object : Success!
+[17:06:56] ------------------------
+[17:06:56] ------------------------
+[17:06:56] Starting load of object : sniper ...
+[17:06:56] (File location : resources/sniper/).
+[17:06:56] Loading object : Success!
+[17:06:56] ------------------------
+[17:06:56] ------------------------
+[17:06:56] Starting load of object : cube ...
+[17:06:56] (File location : resources/).
+[17:06:56] Loading object : Success!
+[17:06:56] ------------------------
+[17:06:56] ------------------------
+[17:06:56] Starting load of object : cube ...
+[17:06:56] (File location : resources/).
+[17:06:56] Loading object : Success!
+[17:06:56] ------------------------
+[17:06:56] ------------------------
+[17:06:56] Starting load of object : cube ...
+[17:06:56] (File location : resources/).
+[17:06:56] Loading object : Success!
+[17:06:56] ------------------------
+[17:06:56] ------------------------
+[17:06:56] Starting load of object : cube ...
+[17:06:56] (File location : resources/).
+[17:06:56] Loading object : Success!
+[17:06:56] ------------------------
+[17:06:56] ------------------------
+[17:06:56] Starting load of object : cubebig ...
+[17:06:56] (File location : resources/).
+[17:06:56] Loading object : Success!
+[17:06:56] ------------------------
+[17:06:56] ------------------------
+[17:06:56] Starting load of object : cubebig ...
+[17:06:56] (File location : resources/).
+[17:06:56] Loading object : Success!
+[17:06:56] ------------------------
+[17:06:56] ------------------------
+[17:06:56] Starting load of object : cubebig ...
+[17:06:56] (File location : resources/).
+[17:06:56] Loading object : Success!
+[17:06:56] ------------------------
+[17:06:56] ------------------------
+[17:06:56] Starting load of object : cubebig ...
+[17:06:56] (File location : resources/).
+[17:06:56] Loading object : Success!
+[17:06:56] ------------------------
+[17:06:56] ------------------------
+[17:06:56] Starting load of object : cubebig ...
+[17:06:56] (File location : resources/).
+[17:06:56] Loading object : Success!
+[17:06:56] ------------------------
+[17:06:56] Loading scene : Success!
+[17:06:56] ========================
+[17:07:29] ========================
+[17:07:29] Starting load of scene : defaultScene_save ...
+[17:07:29] (File location : resources/scenes/).
+[17:07:29] /!\ Can't open file : resources/scenes/defaultScene_save.scene
+[17:07:29] (Please check filepath & file integrity)
+[17:07:29] Loading scene : Failure
+[17:07:29] ========================
+[17:07:31] ========================
+[17:07:31] Starting load of scene : defaultScene ...
+[17:07:31] (File location : resources/scenes/).
+[17:07:31] ------------------------
+[17:07:31] Starting load of object : PenguinBaseMesh ...
+[17:07:31] (File location : resources/penguin/).
+[17:07:31] Loading object : Success!
+[17:07:31] ------------------------
+[17:07:31] ------------------------
+[17:07:31] Starting load of object : sniper ...
+[17:07:31] (File location : resources/sniper/).
+[17:07:31] Loading object : Success!
+[17:07:31] ------------------------
+[17:07:31] ------------------------
+[17:07:31] Starting load of object : cube ...
+[17:07:31] (File location : resources/).
+[17:07:31] Loading object : Success!
+[17:07:31] ------------------------
+[17:07:31] ------------------------
+[17:07:31] Starting load of object : cube ...
+[17:07:31] (File location : resources/).
+[17:07:31] Loading object : Success!
+[17:07:31] ------------------------
+[17:07:31] ------------------------
+[17:07:31] Starting load of object : cube ...
+[17:07:31] (File location : resources/).
+[17:07:31] Loading object : Success!
+[17:07:31] ------------------------
+[17:07:31] ------------------------
+[17:07:31] Starting load of object : cube ...
+[17:07:31] (File location : resources/).
+[17:07:31] Loading object : Success!
+[17:07:31] ------------------------
+[17:07:31] ------------------------
+[17:07:31] Starting load of object : cubebig ...
+[17:07:31] (File location : resources/).
+[17:07:31] Loading object : Success!
+[17:07:31] ------------------------
+[17:07:31] ------------------------
+[17:07:31] Starting load of object : cubebig ...
+[17:07:31] (File location : resources/).
+[17:07:31] Loading object : Success!
+[17:07:31] ------------------------
+[17:07:31] ------------------------
+[17:07:31] Starting load of object : cubebig ...
+[17:07:31] (File location : resources/).
+[17:07:31] Loading object : Success!
+[17:07:31] ------------------------
+[17:07:31] ------------------------
+[17:07:31] Starting load of object : cubebig ...
+[17:07:31] (File location : resources/).
+[17:07:31] Loading object : Success!
+[17:07:31] ------------------------
+[17:07:31] ------------------------
+[17:07:31] Starting load of object : cubebig ...
+[17:07:31] (File location : resources/).
+[17:07:31] Loading object : Success!
+[17:07:31] ------------------------
+[17:07:31] Loading scene : Success!
+[17:07:31] ========================
+[17:07:33] ========================
+[17:07:33] Starting load of scene : defaultScene_save ...
+[17:07:33] (File location : resources/scenes/).
+[17:07:33] /!\ Can't open file : resources/scenes/defaultScene_save.scene
+[17:07:33] (Please check filepath & file integrity)
+[17:07:33] Loading scene : Failure
+[17:07:33] ========================
+[17:07:35] ========================
+[17:07:35] Starting load of scene : defaultScene ...
+[17:07:35] (File location : resources/scenes/).
+[17:07:35] ------------------------
+[17:07:35] Starting load of object : PenguinBaseMesh ...
+[17:07:35] (File location : resources/penguin/).
+[17:07:35] Loading object : Success!
+[17:07:35] ------------------------
+[17:07:35] ------------------------
+[17:07:35] Starting load of object : sniper ...
+[17:07:35] (File location : resources/sniper/).
+[17:07:35] Loading object : Success!
+[17:07:35] ------------------------
+[17:07:35] ------------------------
+[17:07:35] Starting load of object : cube ...
+[17:07:35] (File location : resources/).
+[17:07:35] Loading object : Success!
+[17:07:35] ------------------------
+[17:07:35] ------------------------
+[17:07:35] Starting load of object : cube ...
+[17:07:35] (File location : resources/).
+[17:07:35] Loading object : Success!
+[17:07:35] ------------------------
+[17:07:35] ------------------------
+[17:07:35] Starting load of object : cube ...
+[17:07:35] (File location : resources/).
+[17:07:35] Loading object : Success!
+[17:07:35] ------------------------
+[17:07:35] ------------------------
+[17:07:35] Starting load of object : cube ...
+[17:07:35] (File location : resources/).
+[17:07:35] Loading object : Success!
+[17:07:35] ------------------------
+[17:07:35] ------------------------
+[17:07:35] Starting load of object : cubebig ...
+[17:07:35] (File location : resources/).
+[17:07:35] Loading object : Success!
+[17:07:35] ------------------------
+[17:07:35] ------------------------
+[17:07:35] Starting load of object : cubebig ...
+[17:07:35] (File location : resources/).
+[17:07:35] Loading object : Success!
+[17:07:35] ------------------------
+[17:07:35] ------------------------
+[17:07:35] Starting load of object : cubebig ...
+[17:07:35] (File location : resources/).
+[17:07:35] Loading object : Success!
+[17:07:35] ------------------------
+[17:07:35] ------------------------
+[17:07:35] Starting load of object : cubebig ...
+[17:07:35] (File location : resources/).
+[17:07:35] Loading object : Success!
+[17:07:35] ------------------------
+[17:07:35] ------------------------
+[17:07:35] Starting load of object : cubebig ...
+[17:07:35] (File location : resources/).
+[17:07:35] Loading object : Success!
+[17:07:35] ------------------------
+[17:07:35] Loading scene : Success!
+[17:07:35] ========================
+[17:08:30] ========================
+[17:08:30] Starting load of scene : defaultScene ...
+[17:08:30] (File location : resources/scenes/).
+[17:08:30] ------------------------
+[17:08:30] Starting load of object : PenguinBaseMesh ...
+[17:08:30] (File location : resources/penguin/).
+[17:08:30] Loading object : Success!
+[17:08:30] ------------------------
+[17:08:30] ------------------------
+[17:08:30] Starting load of object : sniper ...
+[17:08:30] (File location : resources/sniper/).
+[17:08:31] Loading object : Success!
+[17:08:31] ------------------------
+[17:08:31] ------------------------
+[17:08:31] Starting load of object : cube ...
+[17:08:31] (File location : resources/).
+[17:08:31] Loading object : Success!
+[17:08:31] ------------------------
+[17:08:31] ------------------------
+[17:08:31] Starting load of object : cube ...
+[17:08:31] (File location : resources/).
+[17:08:31] Loading object : Success!
+[17:08:31] ------------------------
+[17:08:31] ------------------------
+[17:08:31] Starting load of object : cube ...
+[17:08:31] (File location : resources/).
+[17:08:31] Loading object : Success!
+[17:08:31] ------------------------
+[17:08:31] ------------------------
+[17:08:31] Starting load of object : cube ...
+[17:08:31] (File location : resources/).
+[17:08:31] Loading object : Success!
+[17:08:31] ------------------------
+[17:08:31] ------------------------
+[17:08:31] Starting load of object : cubebig ...
+[17:08:31] (File location : resources/).
+[17:08:31] Loading object : Success!
+[17:08:31] ------------------------
+[17:08:31] ------------------------
+[17:08:31] Starting load of object : cubebig ...
+[17:08:31] (File location : resources/).
+[17:08:31] Loading object : Success!
+[17:08:31] ------------------------
+[17:08:31] ------------------------
+[17:08:31] Starting load of object : cubebig ...
+[17:08:31] (File location : resources/).
+[17:08:31] Loading object : Success!
+[17:08:31] ------------------------
+[17:08:31] ------------------------
+[17:08:31] Starting load of object : cubebig ...
+[17:08:31] (File location : resources/).
+[17:08:31] Loading object : Success!
+[17:08:31] ------------------------
+[17:08:31] ------------------------
+[17:08:31] Starting load of object : cubebig ...
+[17:08:31] (File location : resources/).
+[17:08:31] Loading object : Success!
+[17:08:31] ------------------------
+[17:08:31] Loading scene : Success!
+[17:08:31] ========================
+[17:08:55] ========================
+[17:08:55] Starting load of scene : defaultScene ...
+[17:08:55] (File location : resources/scenes/).
+[17:08:55] ------------------------
+[17:08:55] Starting load of object : PenguinBaseMesh ...
+[17:08:55] (File location : resources/penguin/).
+[17:08:55] Loading object : Success!
+[17:08:55] ------------------------
+[17:08:55] ------------------------
+[17:08:55] Starting load of object : sniper ...
+[17:08:55] (File location : resources/sniper/).
+[17:08:55] Loading object : Success!
+[17:08:55] ------------------------
+[17:08:55] ------------------------
+[17:08:55] Starting load of object : cube ...
+[17:08:55] (File location : resources/).
+[17:08:55] Loading object : Success!
+[17:08:55] ------------------------
+[17:08:55] ------------------------
+[17:08:55] Starting load of object : cube ...
+[17:08:55] (File location : resources/).
+[17:08:55] Loading object : Success!
+[17:08:55] ------------------------
+[17:08:55] ------------------------
+[17:08:55] Starting load of object : cube ...
+[17:08:55] (File location : resources/).
+[17:08:55] Loading object : Success!
+[17:08:55] ------------------------
+[17:08:55] ------------------------
+[17:08:55] Starting load of object : cube ...
+[17:08:55] (File location : resources/).
+[17:08:55] Loading object : Success!
+[17:08:55] ------------------------
+[17:08:55] ------------------------
+[17:08:55] Starting load of object : cubebig ...
+[17:08:55] (File location : resources/).
+[17:08:55] Loading object : Success!
+[17:08:55] ------------------------
+[17:08:55] ------------------------
+[17:08:55] Starting load of object : cubebig ...
+[17:08:55] (File location : resources/).
+[17:08:55] Loading object : Success!
+[17:08:55] ------------------------
+[17:08:55] ------------------------
+[17:08:55] Starting load of object : cubebig ...
+[17:08:55] (File location : resources/).
+[17:08:55] Loading object : Success!
+[17:08:55] ------------------------
+[17:08:55] ------------------------
+[17:08:55] Starting load of object : cubebig ...
+[17:08:55] (File location : resources/).
+[17:08:55] Loading object : Success!
+[17:08:55] ------------------------
+[17:08:55] ------------------------
+[17:08:55] Starting load of object : cubebig ...
+[17:08:55] (File location : resources/).
+[17:08:55] Loading object : Success!
+[17:08:55] ------------------------
+[17:08:55] Loading scene : Success!
+[17:08:55] ========================
